@@ -1,0 +1,26 @@
+[
+    {
+        "Employee_id": "E12345",
+        "Employee_name": "John Doe",
+        "Password": "password123",
+        "Email_id": "johndoe@example.com",
+        "Employee_status": true,
+        "Mac_address": "00-14-22-01-23-45"
+    },
+    {
+        "Employee_id": "E12346",
+        "Employee_name": "Jane Smith",
+        "Password": "password456",
+        "Email_id": "janesmith@example.com",
+        "Employee_status": true,
+        "Mac_address": "00-14-22-01-23-46"
+    },
+    {
+        "Employee_id": "E12347",
+        "Employee_name": "Alice Johnson",
+        "Password": "password789",
+        "Email_id": "alicejohnson@example.com",
+        "Employee_status": false,
+        "Mac_address": "00-14-22-01-23-47"
+    }
+]

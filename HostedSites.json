@@ -1,0 +1,39 @@
+[
+    {
+      "Domain": "example1.com",
+      "Template_Id": "TEMPLATE001",
+      "Admin_Id": "ADMIN001",
+      "Admin_name": "Alice Johnson",
+      "Admin_emailid": "alice.johnson@example.com",
+      "Status": true,
+      "RenewalDate": "2024-12-01T00:00:00Z",
+      "HostedDate": "2023-12-01T00:00:00Z",
+      "Client_emailid": "client1@example.com",
+      "Client_Id": "CLIENT001"
+    },
+    {
+      "Domain": "example2.com",
+      "Template_Id": "TEMPLATE002",
+      "Admin_Id": "ADMIN002",
+      "Admin_name": "Bob Smith",
+      "Admin_emailid": "bob.smith@example.com",
+      "Status": true,
+      "RenewalDate": "2025-01-15T00:00:00Z",
+      "HostedDate": "2024-01-15T00:00:00Z",
+      "Client_emailid": "client2@example.com",
+      "Client_Id": "CLIENT002"
+    },
+    {
+      "Domain": "example3.com",
+      "Template_Id": "TEMPLATE003",
+      "Admin_Id": "ADMIN003",
+      "Admin_name": "Carol Williams",
+      "Admin_emailid": "carol.williams@example.com",
+      "Status": false,
+      "RenewalDate": "2025-03-10T00:00:00Z",
+      "HostedDate": "2024-03-10T00:00:00Z",
+      "Client_emailid": "client3@example.com",
+      "Client_Id": "CLIENT003"
+    }
+  ]
+  
