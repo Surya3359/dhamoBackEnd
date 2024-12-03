@@ -8,6 +8,8 @@ const TemplateSchema = new mongoose.Schema({
     CreatedBy:[{ type: mongoose.Schema.Types.ObjectId, ref: "Employee" }],
     TestedBy:{type: String, require: true},
     Approval_status:{type: String, require: true},
+    FilePath: {type: String, require: true},
+    templateUrl:{type: String, require: true},
     CompletedDate:{
         type: Date,
         required: true,
